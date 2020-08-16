@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Responsive Tables</string>
+    <string name="btnTopText">Top Content</string>
+    <string name="btnBottomContent">Bottom Content</string>
+    <string name="_1">1</string>
+    <string name="_01231_revitale_multi_vitamin_tablet">01231-Revitale Multi Vitamin Tablet</string>
+    <string name="_5">5</string>
+    <string name="_1026_0">1026.0</string>
+    <string name="_45000_0">45000.0</string>
+    <string name="_100">100</string>
+</resources>
